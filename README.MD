@@ -87,3 +87,10 @@ export  $initHighlight;
 |--------|----------|-----------|
 | zuly | pineda | 19267152 |
 | marvin | bernal | 18154154 |
+
+# Citas
+Esto es un texto referente a una cita que colocaremos debajo:
+> Esto es una cita
+
+Esto es otro texto que no se relaciona con la cita anterior:
+> Esto es otra cita
