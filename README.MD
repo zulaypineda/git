@@ -35,3 +35,6 @@ Underline1
 - <a href="http://www.google.com"> esto es un link html</a>
 - [esto es un link en markdown](http://www.google.com)
 - [esto es un link al index ](index.html)
+
+# Imagenes
+![Logo Github](https://1000marcas.net/wp-content/uploads/2020/02/GitHub-logo-1.jpg)
