@@ -11,3 +11,8 @@ Underline1
 Underline1
 ==========
 
+- formato *italica* de la primer forma
+- formato _italica_ de la segunda forma
+- formato **bold** o __strong__
+- formato ~~tachado~~, formato normal
+- aqui podemos usar formato *italico*, pero tambien **bold** y ~~tachado~~
